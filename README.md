@@ -48,9 +48,9 @@
         <li>Recursion Problem Solving</li>
     </ul>
 </details>
-<a href="https://github.com/Md-Rifat-Hossen/Phitron_3/tree/master/:%20Introduction%20to%20Programming%20Language%20%26%20Problem%20Solving%20Part-I/Module%2001:%20Bsic%20Syntax%2Cvariavles%20and%20Data%20Type"> Introduction to Programming Language & Problem Solving Part-I</a>
 
-## Course 2: C++ for DSA
+
+## Course 2: <a href="https://github.com/Md-Rifat-Hossen/Phitron_3/tree/master/C%2B%2B%20for%20DSA">C ++ for DSA </a>
 
 <details>
 <summary>Week 1: Basic Operators and OOP</summary>
@@ -70,7 +70,7 @@
     </ul>
 </details>
 
-## Course 3: Basic Data Structures
+## Course 3: <a href="https://github.com/Md-Rifat-Hossen/Phitron_3/tree/master/Basic%20Data%20Structure"> Basic Data Structures </a>
 
 <details>
 <summary>Week 1: Time Complexity and Binary Search</summary>
@@ -127,7 +127,7 @@
 </details>
 
 
-## Course 4: Algorithms
+## Course 4: <a href="#"> Algorithms </a>
 
 <details>
 <summary>Week 1: Recursion and Time Complexity</summary>
@@ -184,7 +184,7 @@
 </details>
 
 
-## Course 5: OOP And Python Programming
+## Course 5: <a href="#"> OOP And Python Programming </a>
 
 <details>
 <summary>Week 1: Introduce To Python</summary>
