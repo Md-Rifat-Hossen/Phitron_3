@@ -1,7 +1,8 @@
 
 # Phitron
 
-## Course 1: Introduction to Programming Language & Problem Solving Part-I
+## Course 1: <a href="https://github.com/Md-Rifat-Hossen/Phitron_3/tree/master/:%20Introduction%20to%20Programming%20Language%20%26%20Problem%20Solving%20Part-I/Module%2001:%20Bsic%20Syntax%2Cvariavles%20and%20Data%20Type"> Introduction to Programming Language & Problem Solving Part-I</a>
+
 
 <details>
 <summary>Week 1: Basic Syntax, Condition & Loop</summary>
