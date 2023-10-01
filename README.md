@@ -194,4 +194,12 @@
         <li>Basic Python 02</li>
     </ul>
 </details>
+<details>
+<summary>Week 1: OOP</summary>
+    <ul>
+        <li>Class and Object</li>
+        <li>Python OOP</li>
+        <li>Basic Python 02</li>
+    </ul>
+</details>
 
